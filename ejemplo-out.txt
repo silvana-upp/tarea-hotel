@@ -1,0 +1,19 @@
+¡Hola [Nombre del cliente]! aqui tienes los detalles de te reserva:
+
+Check-in: 	07-07-2025
+Checl out:	10-07-2025
+
+Reservaste	[3] noches, [2] habitaciones, [6] personas
+
+Detalles de reserva
+[1] 	Habitacion doble
+[1] 	Suite
+
+e-mail de contacto	[andlops@dmail.com]
+
+
+Detalles del precio:
+[1] 	Habitacion doble		 900.00$
+[1] 	Suite					2000.00$
+----------------------------------------------
+Total:							2900.00$
